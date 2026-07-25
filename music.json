@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "song": "F L Y",
+      "artist": "SPECTRUM",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784935877169-00_-_Spectrum_-_F_L_Y.flac"
+    },
+    {
+      "song": "\u3042\u308b\u7537 - A Man",
+      "artist": "AHUB",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/giovaglt09-1784935176444-____-_A_Man_-_AHUB.flac"
+    },
+    {
+      "song": "Memory",
+      "artist": "SPECTRUM",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784935551834-00_-_Spectrum_-_Memory.flac"
+    },
+    {
+      "song": "Tum Mile (Love Reprise)",
+      "artist": "Pritam, Javed Ali",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/priyanshusyaniya-beep-1784932468191-Javed_Ali_-_Tum_Mile.flac"
+    },
+    {
+      "song": "\u30d1\u30c3\u30b7\u30f3\u30b0\u30fb\u30c9\u30ea\u30fc\u30e0\u3000\u3000Passing Dream",
+      "artist": "SPECTRUM",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784935824027-00_-_Spectrum_-_Passing_Dream.flac"
+    },
+    {
       "song": "The game",
       "artist": "iri",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784929126276-00_-_Iri_-_The_game.flac"
