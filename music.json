@@ -1,6 +1,681 @@
 {
   "items": [
     {
+      "song": "Happy Now?",
+      "artist": "FINNEAS",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989368390-FINNEAS_-_Happy_Now_.flac"
+    },
+    {
+      "song": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artist": "Usher",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984726727-Usher_-_DJ_Got_Us_Fallin__In_Love__feat._Pitbull_.flac"
+    },
+    {
+      "song": "The Rhythm Of The Night",
+      "artist": "Corona",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984574954-Corona_-_The_Rhythm_Of_The_Night.flac"
+    },
+    {
+      "song": "Garras",
+      "artist": "Nasa Histoires",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989286165-Nasa_Histoires_-_Garras.flac"
+    },
+    {
+      "song": "Heartless",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990622924-Kanye_West_-_Heartless.flac"
+    },
+    {
+      "song": "Low (feat. T-Pain)",
+      "artist": "Flo Rida",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987270391-Flo_Rida_-_Low__feat._T-Pain_.flac"
+    },
+    {
+      "song": "Da Ya Think I'm Sexy?",
+      "artist": "Rod Stewart",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989287825-Rod_Stewart_-_Da_Ya_Think_I_m_Sexy_.flac"
+    },
+    {
+      "song": "2 Times",
+      "artist": "Ann Lee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984386483-Ann_Lee_-_2_Times__Original_.flac"
+    },
+    {
+      "song": "Senegal",
+      "artist": "Akon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984836439-Akon_-_Senegal__Album_Version_.flac"
+    },
+    {
+      "song": "Fantasy",
+      "artist": "Mariah Carey",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990908129-Mariah_Carey_-_Fantasy.flac"
+    },
+    {
+      "song": "Take Me to the Rave (Techno Mix)",
+      "artist": "Rocco, Pulsedriver, Ninkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989834022-Rocco_-_Take_Me_to_the_Rave__Techno_Mix_.flac"
+    },
+    {
+      "song": "Balling (L\u00c4UFF Remix)",
+      "artist": "Vibe Chemistry",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989867033-Vibe_Chemistry_-_Balling__LA_UFF_Remix_.flac"
+    },
+    {
+      "song": "Harder Than You Think",
+      "artist": "Public Enemy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784989008052-Public_Enemy_-_Harder_Than_You_Think.flac"
+    },
+    {
+      "song": "Lehrk\u00f6rper",
+      "artist": "BattleBoi Basti",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989535245-BattleBoi_Basti_-_Lehrk_rper.flac"
+    },
+    {
+      "song": "Malare",
+      "artist": "Vijay Yesudas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/skykid-mr-1784992837781-Vijay_Yesudas_-_Malare__From__Premam__.flac"
+    },
+    {
+      "song": "Bla Bla Bla",
+      "artist": "Gigi D'Agostino",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988508226-Gigi_D_Agostino_-_Bla_Bla_Bla.flac"
+    },
+    {
+      "song": "Crazy",
+      "artist": "Gnarls Barkley, CeeLo Green, Danger Mouse",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989640529-Gnarls_Barkley_-_Crazy.flac"
+    },
+    {
+      "song": "RIP PETE",
+      "artist": "Nsqk",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/antonyagustin302-sketch-1784993622768-RIP_PETE_-_NSQK.flac"
+    },
+    {
+      "song": "Lag Ja Gale Se Phir",
+      "artist": "Lata Mangeshkar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-lag_ja_gale_se_phir.flac"
+    },
+    {
+      "song": "XO (Only If You Say Yes)",
+      "artist": "ENHYPEN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/himmax-sato-1784985155603-02_-_ENHYPEN_-_XO__Only_If_You_Say_Yes_.flac"
+    },
+    {
+      "song": "Smack That (feat. Eminem)",
+      "artist": "Akon",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784990102859-Akon_-_Smack_That__Clean_.flac"
+    },
+    {
+      "song": "In Da Club",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990351196-50_Cent_-_In_Da_Club.flac"
+    },
+    {
+      "song": "The Box",
+      "artist": "Roddy Ricch",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988928145-Roddy_Ricch_-_The_Box.flac"
+    },
+    {
+      "song": "Just A Lil Bit",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784990191144-50_Cent_-_Just_A_Lil_Bit.flac"
+    },
+    {
+      "song": "Khatta Flow",
+      "artist": "Seedhe Maut, KR$NA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784993723743-Khatta_Flow.flac"
+    },
+    {
+      "song": "Wannabe",
+      "artist": "Spice Girls",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990752935-Spice_Girls_-_Wannabe.flac"
+    },
+    {
+      "song": "los alpes",
+      "artist": "Nsqk, Nina",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/antonyagustin302-sketch-1784993473675-los_alpes_-_NSQK__Nina.flac"
+    },
+    {
+      "song": "Killer Queen",
+      "artist": "Queen",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987114139-Queen_-_Killer_Queen.flac"
+    },
+    {
+      "song": "Jee Le Zaraa",
+      "artist": "Vishal Dadlani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-jee_le_zaraa_from_talaash.flac"
+    },
+    {
+      "song": "Stadtaffe",
+      "artist": "Peter Fox",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989368925-Peter_Fox_-_Stadtaffe.flac"
+    },
+    {
+      "song": "Mr. Vain (Original Radio Edit)",
+      "artist": "Culture Beat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984310726-Culture_Beat_-_Mr._Vain__Original_Radio_Edit_.flac"
+    },
+    {
+      "song": "goosebumps",
+      "artist": "Travis Scott",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990580012-Travis_Scott_-_goosebumps.flac"
+    },
+    {
+      "song": "Gold Digger (feat. Jamie Foxx)",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784983926479-Kanye_West_-_Gold_Digger.flac"
+    },
+    {
+      "song": "Ki",
+      "artist": "C418",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/mystery-goo-1784988016587-C418_-_Ki.flac"
+    },
+    {
+      "song": "Mr. Vain Recall (Radio Edit)",
+      "artist": "Culture Beat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984485313-Culture_Beat_-_Mr._Vain_Recall__Radio_Edit_.flac"
+    },
+    {
+      "song": "GATITAS SANDUNGUERAS (VOL.1)",
+      "artist": "Alvaro Diaz, Feid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/antonyagustin302-sketch-1784993914816-GATITAS_SANDUNGUERAS__VOL.1__-_Alvaro_D_az__Feid.flac"
+    },
+    {
+      "song": "BALAM PICHKARI",
+      "artist": "VISHAL DADLANI, SHALMALI KHOLGADE, PRITAM, AMITABH BHATTACHARYA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784993046794-Balam_Pichkari_-_Pritam__Vishal_Dadlani__Shalmali_Kholgade__Amitabh_Bhattacharya.flac"
+    },
+    {
+      "song": "Big Poppa (2005 Remaster)",
+      "artist": "The Notorious B.I.G.",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988608932-The_Notorious_B.I.G._-_Big_Poppa__2007_Remaster_.flac"
+    },
+    {
+      "song": "Hood Baby",
+      "artist": "KBFR",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989597020-KBFR_-_Hood_Baby.flac"
+    },
+    {
+      "song": "Pullermatz",
+      "artist": "BattleBoi Basti",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989443134-BattleBoi_Basti_-_Pullermatz.flac"
+    },
+    {
+      "song": "Party In The U.S.A.",
+      "artist": "Miley Cyrus",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990456227-Miley_Cyrus_-_Party_In_The_U.S.A..flac"
+    },
+    {
+      "song": "Tenemos que Hablar",
+      "artist": "Lasso",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989426246-Lasso_-_Tenemos_que_Hablar.flac"
+    },
+    {
+      "song": "Round Round",
+      "artist": "Sugababes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984083329-Sugababes_-_Round_Round.flac"
+    },
+    {
+      "song": "Lost",
+      "artist": "Frank Ocean",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784991027184-Frank_Ocean_-_Lost.flac"
+    },
+    {
+      "song": "Saaiyaan",
+      "artist": "Salim-Sulaiman",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-saaiyaan_from_heroine.flac"
+    },
+    {
+      "song": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "url": "https://lossless.echomusic.fun/Music/sougata-xd-locked_out_of_heaven.flac"
+    },
+    {
+      "song": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984048832-Mungo_Jerry_-_In_the_Summertime.flac"
+    },
+    {
+      "song": "Because the Night (Radio Edit)",
+      "artist": "Jan Wayne",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984154091-Jan_Wayne_-_Because_the_Night__Radio_Edit_.flac"
+    },
+    {
+      "song": "Mathuga Mathuga (From \"Vikram Hitlist\")",
+      "artist": "Anirudh Ravichander, Kamal Haasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mathuga_mathuga_from_vikram_hitlist_.flac"
+    },
+    {
+      "song": "Pathala Pathala (From \"Vikram\")",
+      "artist": "Anirudh Ravichander, Kamal Haasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-pathala_pathala_from_vikram_.flac"
+    },
+    {
+      "song": "Porkanda Singam (EDM Version) [From \"Vikram\"]",
+      "artist": "Anirudh Ravichander, Vishnu Edavan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-porkanda_singam_edm_version_from_vikram_.flac"
+    },
+    {
+      "song": "Porkanda Singam",
+      "artist": "Anirudh Ravichander, Ravi G",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-porkanda_singam.flac"
+    },
+    {
+      "song": "Wasted",
+      "artist": "Anirudh Ravichander",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-wasted.flac"
+    },
+    {
+      "song": "Rock Your Body",
+      "artist": "Justin Timberlake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984758869-Justin_Timberlake_-_Rock_Your_Body.flac"
+    },
+    {
+      "song": "Dark Thoughts",
+      "artist": "Lil Tecca",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/goeltrying-1784988261502-Dark_Thoughts_-_Lil_Tecca.flac"
+    },
+    {
+      "song": "The Real Slim Shady",
+      "artist": "Eminem",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ares1v-1784984718171-Eminem_-_The_Real_Slim_Shady.flac"
+    },
+    {
+      "song": "Pt. 2",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990697547-Kanye_West_-_Pt._2.flac"
+    },
+    {
+      "song": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987038652-Queen_-_Bohemian_Rhapsody.flac"
+    },
+    {
+      "song": "XWAVE (F\u00dcR IMMER)",
+      "artist": "X WAVE, BANGWHITE, GOTTI, KARDO",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989744895-X_WAVE_-_XWAVE__F_R_IMMER_.flac"
+    },
+    {
+      "song": "I Guess",
+      "artist": "KR$NA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784994141524-I_Guess.flac"
+    },
+    {
+      "song": "Regulate (feat. Nate Dogg)",
+      "artist": "Warren G",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990862053-Warren_G_-_Regulate__Album_Version_Explicit_.flac"
+    },
+    {
+      "song": "Whats Poppin",
+      "artist": "Jack Harlow",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988886043-Jack_Harlow_-_WHATS_POPPIN.flac"
+    },
+    {
+      "song": "Round Round",
+      "artist": "Kenlo & Scaffa",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984652380-Kenlo___Scaffa_-_Round_Round.flac"
+    },
+    {
+      "song": "No Shortcut",
+      "artist": "Arjan Dhillon & Jay Trak",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/naa-v-een-1784987845860-No_Shortcut_-_Arjan_Dhillon__Jay_Trak.flac"
+    },
+    {
+      "song": "Mudinja Thodra",
+      "artist": "Anirudh Ravichander",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mudinja_thodra.flac"
+    },
+    {
+      "song": "Salambala (From \"Madharaasi\") (Tamil)",
+      "artist": "Anirudh Ravichander, Sai Abhyankar, Super Subu",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-salambala_from_madharaasi_tamil_.flac"
+    },
+    {
+      "song": "Thangapoovey",
+      "artist": "Ravi G, Vivek",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-thangapoovey.flac"
+    },
+    {
+      "song": "Unadhu Enadhu",
+      "artist": "Shilpa Rao, Ravi G, Adesh Krishna",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-unadhu_enadhu.flac"
+    },
+    {
+      "song": "Usara Uruvi",
+      "artist": "Ravi G, Vishnu Edavan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-usara_uruvi.flac"
+    },
+    {
+      "song": "Vazhiyiraen (From \"Madharaasi\") (Tamil)",
+      "artist": "Anirudh Ravichander, Kwame Fyah, Vignesh Shivan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vazhiyiraen_from_madharaasi_tamil_.flac"
+    },
+    {
+      "song": "Look At Me!",
+      "artist": "XXXTENTACION",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990259878-XXXTentacion_-_Look_At_Me_.flac"
+    },
+    {
+      "song": "I'll Still Kill (feat. Akon)",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984006049-50_Cent_-_I_ll_Still_Kill.flac"
+    },
+    {
+      "song": "Oft gefragt",
+      "artist": "AnnenMayKantereit",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784990041775-AnnenMayKantereit_-_Oft_gefragt.flac"
+    },
+    {
+      "song": "No Me 100to Bien",
+      "artist": "Christian Nodal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784988993196-Christian_Nodal_-_No_Me_100to_Bien.flac"
+    },
+    {
+      "song": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988168207-Gwen_Stefani_-_The_Sweet_Escape.flac"
+    },
+    {
+      "song": "No Type",
+      "artist": "Rae Sremmurd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989217622-Rae_Sremmurd_-_No_Type.flac"
+    },
+    {
+      "song": "We're Going To Ibiza!",
+      "artist": "Vengaboys",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984190832-Vengaboys_-_We_re_Going_To_Ibiza_.flac"
+    },
+    {
+      "song": "Monsta",
+      "artist": "Culcha Candela",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989403938-Culcha_Candela_-_Monsta.flac"
+    },
+    {
+      "song": "No Diggity (feat. Queen Pen & Dr. Dre)",
+      "artist": "Blackstreet",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ares1v-1784985085491-Blackstreet_-_No_Diggity.flac"
+    },
+    {
+      "song": "Come Get Her",
+      "artist": "Rae Sremmurd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990984862-Rae_Sremmurd_-_Come_Get_Her.flac"
+    },
+    {
+      "song": "Garras",
+      "artist": "Nasa Histoires",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989122940-Nasa_Histoires_-_Garras.flac"
+    },
+    {
+      "song": "Urutau",
+      "artist": "Nasa Histoires",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989253296-Nasa_Histoires_-_Urutau.flac"
+    },
+    {
+      "song": "Tit\u00ed Me Pregunt\u00f3",
+      "artist": "Bad Bunny",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989517695-Bad_Bunny_-_Tit__Me_Pregunt_.flac"
+    },
+    {
+      "song": "Aaha Ooho",
+      "artist": "Oorka",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-aaha_ooho.flac"
+    },
+    {
+      "song": "Dharala Prabhu Title Track (From \"Dharala Prabhu\")",
+      "artist": "Anirudh Ravichander, Vignesh Shivan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-dharala_prabhu_title_track_from_dharala_prabhu_.flac"
+    },
+    {
+      "song": "Kaadhal Theevey (From \"Dharala Prabhu\")",
+      "artist": "Sean Roldan, Sid Sriram",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaadhal_theevey_from_dharala_prabhu_.flac"
+    },
+    {
+      "song": "Maatra Thendral (From \"Dharala Prabhu\")",
+      "artist": "Bharath Sankar, Pradeep Kumar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-maatra_thendral_from_dharala_prabhu_.flac"
+    },
+    {
+      "song": "Manusan",
+      "artist": "Kaber Vasuki",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-manusan.flac"
+    },
+    {
+      "song": "Payanangal",
+      "artist": "Bharath Sankar, Shakthisree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-payanangal.flac"
+    },
+    {
+      "song": "Pularum",
+      "artist": "Vivek",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-pularum.flac"
+    },
+    {
+      "song": "Raasa Mavan",
+      "artist": "Madley Blues, Alexander Babu, Harish Venkat",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-raasa_mavan.flac"
+    },
+    {
+      "song": "Unnaal Penne (From \"Dharala Prabhu\")",
+      "artist": "Inno Genga",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-unnaal_penne_from_dharala_prabhu_.flac"
+    },
+    {
+      "song": "Mood (feat. iann dior)",
+      "artist": "24kGoldn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988960154-24kgoldn_-_Mood__feat._iann_dior_.flac"
+    },
+    {
+      "song": "Turn Around (Radio Edit) (feat. Toney Lee)",
+      "artist": "Phats & Small",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989714715-Phats___Small_-_Turn_Around__Radio_Edit_.flac"
+    },
+    {
+      "song": "Forgot About Dre (feat. Eminem)",
+      "artist": "Dr. Dre",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990803681-Dr._Dre_-_Forgot_About_Dre.flac"
+    },
+    {
+      "song": "Chammak Challo",
+      "artist": "Vishal-Shekhar, Akon, Hamsika Iyer",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784992684093-Chammak_Challo_-_Vishal-Shekhar__Akon__Hamsika_Iyer__Vishal_Dadlani__Niranjan_Iyengar.flac"
+    },
+    {
+      "song": "We Like To Party! (The Vengabus)",
+      "artist": "Vengaboys",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984252871-Vengaboys_-_We_Like_To_Party___The_Vengabus_.flac"
+    },
+    {
+      "song": "Mask Off",
+      "artist": "Future",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784991083984-Future_-_Mask_Off.flac"
+    },
+    {
+      "song": "My House",
+      "artist": "Flo Rida",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984792339-Flo_Rida_-_My_House.flac"
+    },
+    {
+      "song": "Pumped Up Kicks",
+      "artist": "Foster The People",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988084849-Foster_the_People_-_Pumped_Up_Kicks.flac"
+    },
+    {
+      "song": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988379708-John_Denver_-_Take_Me_Home__Country_Roads.flac"
+    },
+    {
+      "song": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987911415-The_White_Stripes_-_Seven_Nation_Army.flac"
+    },
+    {
+      "song": "Replay",
+      "artist": "Iyaz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987154086-Iyaz_-_Replay.flac"
+    },
+    {
+      "song": "Stay or Leave - HYPERTECHNO",
+      "artist": "HYPER MOOD",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989915824-HYPER_MOOD_-_Stay_or_Leave_-_HYPERTECHNO.flac"
+    },
+    {
+      "song": "L'amour Toujours",
+      "artist": "Gigi D'Agostino",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984527738-Gigi_D_Agostino_-_L_Amour_Toujours.flac"
+    },
+    {
+      "song": "Cupid's Chokehold / Breakfast in America",
+      "artist": "Gym Class Heroes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988308792-Gym_Class_Heroes_-_Cupid_s_Chokehold___Breakfast_in_America.flac"
+    },
+    {
+      "song": "Wolke 4",
+      "artist": "Philipp Dittberner, Marv",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989790490-Philipp_Dittberner_-_Wolke_4.flac"
+    },
+    {
+      "song": "Thank You (Not So Bad)",
+      "artist": "Dimitri Vegas & Like Mike, Ti\u00ebsto, Dido, W&W",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989114107-Dimitri_Vegas___Like_Mike_-_Thank_You__Not_So_Bad_.flac"
+    },
+    {
+      "song": "Hona Tha Pyar",
+      "artist": "Hadiqa Kiani, Atif Aslam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hakishi-hona_tha_pyar.flac"
+    },
+    {
+      "song": "Up & Down",
+      "artist": "Vengaboys",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984355947-Vengaboys_-_Up___Down.flac"
+    },
+    {
+      "song": "L$D",
+      "artist": "A$AP Rocky",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990944186-A_AP_Rocky_-_L_D.flac"
+    },
+    {
+      "song": "Lonely",
+      "artist": "Imagine Dragons",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988433017-Imagine_Dragons_-_Lonely.flac"
+    },
+    {
+      "song": "The Search",
+      "artist": "NF",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784990007484-NF_-_The_Search.flac"
+    },
+    {
+      "song": "Radioactive",
+      "artist": "Imagine Dragons",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988550195-Imagine_Dragons_-_Radioactive.flac"
+    },
+    {
+      "song": "12 Millionen",
+      "artist": "Dame",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989564921-Dame_-_12_Millionen.flac"
+    },
+    {
+      "song": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990502917-Gwen_Stefani_-_Hollaback_Girl.flac"
+    },
+    {
+      "song": "Dum-A-Dum",
+      "artist": "Chet Dixon,Devu Khan Manganiyar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784994277283-Dum-A-Dum.flac"
+    },
+    {
+      "song": "WELTiTA",
+      "artist": "Bad Bunny, Chuwi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alejandrotbd1-1784989615071-Bad_Bunny_-_WELTiTA.flac"
+    },
+    {
+      "song": "Fancy (feat. Charli xcx)",
+      "artist": "Iggy Azalea",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989080378-Iggy_Azalea_-_Fancy.flac"
+    },
+    {
+      "song": "Rich Girl (feat. Eve)",
+      "artist": "Gwen Stefani",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984691662-Gwen_Stefani_-_Rich_Girl.flac"
+    },
+    {
+      "song": "Another One Bites The Dust",
+      "artist": "Queen",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987075874-Queen_-_Another_One_Bites_The_Dust.flac"
+    },
+    {
+      "song": "Summer Love",
+      "artist": "Justin Timberlake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990386948-Justin_Timberlake_-_Summer_Love.flac"
+    },
+    {
+      "song": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990422592-Justin_Timberlake_-_SexyBack__feat._Timbaland_.flac"
+    },
+    {
+      "song": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784986932770-Rihanna_-_Only_Girl__In_The_World_.flac"
+    },
+    {
+      "song": "Jana Jogi De Naal",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784993804856-Jana_Jogi_De_Naal.flac"
+    },
+    {
+      "song": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784984615628-Vengaboys_-_Boom__Boom__Boom__Boom__.flac"
+    },
+    {
+      "song": "Riders On The Storm (Fredwreck Remix) (feat. The Doors)",
+      "artist": "Snoop Dogg",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990309985-Snoop_Dogg_-_Riders_On_The_Storm__Fredwreck_Remix_.flac"
+    },
+    {
+      "song": "Breathe (Rap Version) (feat. Sean Paul)",
+      "artist": "Blu Cantrell",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784983966747-Blu_Cantrell_-_Breathe__feat._Sean_Paul___Rap_Version_.flac"
+    },
+    {
+      "song": "Hey Ya!",
+      "artist": "OutKast",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784987470309-Outkast_-_Hey_Ya_.flac"
+    },
+    {
+      "song": "Girlfriend (Dr. Luke Mix) (feat. Lil Mama)",
+      "artist": "Avril Lavigne",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784986977217-Avril_Lavigne_-_Girlfriend__feat._Lil_Mama___Dr._Luke_Mix_.flac"
+    },
+    {
+      "song": "Die Horde rennt",
+      "artist": "Jan Hegenberg",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989479114-Jan_Hegenberg_-_Die_Horde_rennt.flac"
+    },
+    {
+      "song": "Pon de Replay",
+      "artist": "Rihanna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988008252-Rihanna_-_Pon_de_Replay.flac"
+    },
+    {
+      "song": "Deep End Freestyle",
+      "artist": "Sleepy Hallow, Foushe\u00e9",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dirk-amg-1784989335793-Sleepy_Hallow_-_Deep_End_Freestyle.flac"
+    },
+    {
+      "song": "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
+      "artist": "Lil Nas X",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784988684695-Lil_Nas_X_-_Old_Town_Road__feat._Billy_Ray_Cyrus___Remix_.flac"
+    },
+    {
+      "song": "Famous",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maikbeats-1784990657510-Kanye_West_-_Famous.flac"
+    },
+    {
       "song": "The Emptiness Machine",
       "artist": "Skar",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/alexander-778-1784983373952-Skar_-_The_Emptiness_Machine.flac"
