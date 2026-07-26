@@ -1,6 +1,306 @@
 {
   "items": [
     {
+      "song": "won't stop",
+      "artist": "Gunna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045566279-wont-stop.flac"
+    },
+    {
+      "song": "Faded",
+      "artist": "Alan Walker",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vader2419-1785051984032-Alan_Walker_-_Faded.flac"
+    },
+    {
+      "song": "Jenna Ortega",
+      "artist": "Stellar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047674926-Stellar_-_Jenna_Ortega.flac"
+    },
+    {
+      "song": "Damascus (feat. Omar Souleyman, Yasiin Bey & Omar Souleyman and Yasiin Bey)",
+      "artist": "Gorillaz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047870523-Gorillaz_-_Damascus__feat._Omar_Souleyman_and_Yasiin_Bey_.flac"
+    },
+    {
+      "song": "Kaadhal Mazhaiye",
+      "artist": "Bharadwaj, Vairamuthu, Srinivas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785049099822-03._Kaadhal_Mazhaiye-2.flac"
+    },
+    {
+      "song": "Oru Naal Unnai",
+      "artist": "Vasan, Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048400518-03_Orunaal_Unai_Vizhigal__From_Anandha_Mazhai_-2.flac"
+    },
+    {
+      "song": "\u30d3\u30b8\u30cd\u30b9\u30d0\u30bf - Business Bata",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785050487681-Yuri_-_Business_Bata.flac"
+    },
+    {
+      "song": "Kaadhal Solvadhu",
+      "artist": "Srinivas, Sunitha Sarathy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048939154-04_-_Kaadhal_Solvadhu-2.flac"
+    },
+    {
+      "song": "Money & Love",
+      "artist": "Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785044940884-money-love.flac"
+    },
+    {
+      "song": "19-2000",
+      "artist": "Gorillaz, Miho Hatori, & Tina Weymouth",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785046924897-Gorillaz_-_19-2000.flac"
+    },
+    {
+      "song": "Small girl (feat. D.O.)",
+      "artist": "Lee Young ji",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785046532334-Lee_Young_Ji_-_Small_girl__feat._D.O._.flac"
+    },
+    {
+      "song": "Mannile",
+      "artist": "S. P. Charan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785047853901-02_Mannile-2.flac"
+    },
+    {
+      "song": "Plastic Beach (feat. Mick Jones & Paul Simonon)",
+      "artist": "Gorillaz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047798684-Gorillaz_Plastic_Beach_feat_Mick_Jones_and_Paul_Simonon.flac"
+    },
+    {
+      "song": "Holiday",
+      "artist": "Problem Child, Nelieux, Jus Jay King",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045994170-holiday.flac"
+    },
+    {
+      "song": "Nzaza",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045068095-nzaza.flac"
+    },
+    {
+      "song": "LEGION",
+      "artist": "Creepy Nuts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785046391848-Creepy_Nuts_-_LEGION.flac"
+    },
+    {
+      "song": "doppelg\u00e4nger",
+      "artist": "Creepy Nuts",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785046275569-Creepy_Nuts_-_doppelg_nger.flac"
+    },
+    {
+      "song": "\u30a4\u30a4\u30ca\u796d - Iinasai",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785048078001-Yuri_-_Iinasai.flac"
+    },
+    {
+      "song": "Beat It",
+      "artist": "Michael Jackson",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047602926-Michael_Jackson_-_Beat_It.flac"
+    },
+    {
+      "song": "Wetin Dey",
+      "artist": "Jesse Jagz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045822995-wetin-dey.flac"
+    },
+    {
+      "song": "\u3066\u304d\u3068\u3046\u30e1\u30a4\u30af - Tekito Make",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785048161209-Yuri_-_Tekito_Make.flac"
+    },
+    {
+      "song": "Eppadio Maatikiten (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, Clinton Cerejo, Nruthya",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-eppadio_maatikiten_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "MGR Illenga (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, Haricharan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mgr_illenga_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Oru Adangapidari (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, Shankar Mahadevan, Shweta Mohan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_adangapidari_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Oru Kal - Adnan Sami (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, Adnan Sami",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_kal_-_adnan_sami_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Oru Kal - Yuvan Shankar Raja (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_kal_-_yuvan_shankar_raja_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Oru Paarvaiyil (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, Ranjith Govind",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_paarvaiyil_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Thithikum Theeai (From \"Siva Manasula Sakthi\")",
+      "artist": "Yuvan Shankar Raja, Na.Muthukumar, KK, Shweta Mohan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-thithikum_theeai_from_siva_manasula_sakthi_.flac"
+    },
+    {
+      "song": "Yaaro Ahzithadhu",
+      "artist": "Deva, Pazhani Bharathi, Hariharan, Uma Ramanan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785047054761-09_Yaro_Azhaithathu__From__Sishya__.flac"
+    },
+    {
+      "song": "Joha",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045343089-joha.flac"
+    },
+    {
+      "song": "Headlights (feat. KIDDO)",
+      "artist": "Alok, Alan Walker",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vader2419-1785051716633-KIDDO_-_Headlights.flac"
+    },
+    {
+      "song": "Ennavo Ennavo",
+      "artist": "S.A. Rajkumar, Hariharan, Mahalakshmi Iyer, Vaali",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048602869-04_-_Ennavo_Ennavo-2.flac"
+    },
+    {
+      "song": "On Melancholy Hill",
+      "artist": "Gorillaz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047470285-Gorillaz_-_On_Melancholy_Hill.flac"
+    },
+    {
+      "song": "Fly Away (feat. Anjulie)",
+      "artist": "TheFatRat",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vader2419-1785050881367-Anjulie_-_Fly_Away.flac"
+    },
+    {
+      "song": "Sungba (Remix) (feat. Burna Boy)",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045131004-sungba-remix-feat-burna-boy.flac"
+    },
+    {
+      "song": "Ototo",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045396251-ototo.flac"
+    },
+    {
+      "song": "MONEY CONSTANT",
+      "artist": "Dj Maphorisa, DJ Tunez, Wizkid, Mavo",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045466130-money-constant.flac"
+    },
+    {
+      "song": "\u3067\u3093\u3071\u3068\u307e\u3068\u307e - dempatomatoma",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785050439573-Yuri_-_dempatomatoma.flac"
+    },
+    {
+      "song": "Kadhalai Yaaradi",
+      "artist": "D. Imman, Thabu Shankar, Hariharan, and Mathangi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785046839313-07_Kadhalai_Yaradi__From__Thaka_Thimi_Thaa__.flac"
+    },
+    {
+      "song": "Pheelz Like Summer",
+      "artist": "Pheelz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045891034-pheelz-like-summer.flac"
+    },
+    {
+      "song": "Orange County (feat. Bizarrap, Kara Jackson & Anoushka Shankar)",
+      "artist": "Gorillaz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047980254-Gorillaz_Orange_County_feat_Bizarrap__Kara_Jackson_and_Anous.flac"
+    },
+    {
+      "song": "Peace Be Unto You (PBUY)",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045190181-peace-be-unto-you-pbuy.flac"
+    },
+    {
+      "song": "Clint Eastwood (Ed Case / Sweetie Irie Refix)",
+      "artist": "Gorillaz, Sweetie Irie",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047095464-Gorillaz_-_Clint_Eastwood.flac"
+    },
+    {
+      "song": "Bite Me",
+      "artist": "ENHYPEN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/himmax-sato-1785044917022-00_-_ENHYPEN_-_Bite_Me.flac"
+    },
+    {
+      "song": "Terminator",
+      "artist": "Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045289604-terminator.flac"
+    },
+    {
+      "song": "Brought The Heat Back",
+      "artist": "ENHYPEN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/himmax-sato-1785046079700-00_-_ENHYPEN_-_Brought_The_Heat_Back.flac"
+    },
+    {
+      "song": "Idhu Enna Mayam",
+      "artist": "G. V. Prakash, Na Muthukumar, Shankar Mahadevan, and Alka Yagnik",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048550855-02_Ithu_Enna_Maayam-2.flac"
+    },
+    {
+      "song": "Yeno Yeno",
+      "artist": "Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048498518-05_Yeno_Yeno-2.flac"
+    },
+    {
+      "song": "Oru Naal Unnai",
+      "artist": "Vasan, Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785048364858-03_Orunaal_Unai_Vizhigal__From_Anandha_Mazhai_-2.flac"
+    },
+    {
+      "song": "Army Dreamers",
+      "artist": "Kate Bush",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047542127-Kate_Bush_-_Army_Dreamers.flac"
+    },
+    {
+      "song": "\u3046\u3063\u3061\u3083\u3044 - Utchai",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785046742957-Yuri_-_Utchai.flac"
+    },
+    {
+      "song": "Ennil Ennil",
+      "artist": "Dharan, Rathnam, Haricharan, Mahathi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ennil_ennil.flac"
+    },
+    {
+      "song": "Etho Nadakkuthu",
+      "artist": "Dharan, Pa. Vijay, Ranjith, and Krithika",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-etho_nadakkuthu.flac"
+    },
+    {
+      "song": "Oru Nodi Eru Nodi",
+      "artist": "Dharan, Pa. Vijay, Karthik, Srilekha Parthasarathy, and Shweta Mohan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oru_nodi_eru_nodi.flac"
+    },
+    {
+      "song": "Theme Music",
+      "artist": "Dharan, Pa. Vijay, Karthik & Sharadha",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-theme_music.flac"
+    },
+    {
+      "song": "Unnai Kandane",
+      "artist": "Dharan, Na.Muthukumar, Haricharan, and Sruthi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-unnai_kandane.flac"
+    },
+    {
+      "song": "Thodu Thoduveneve (Language: Tamil; Film: Thullatha Manamum Thullum; Film Artist 1: Vijay; Film Artist 2: Simran)",
+      "artist": "Hariharan, Chitra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785046890918-06_Thodu_Thoduveneve-2.flac"
+    },
+    {
+      "song": "won't stop",
+      "artist": "Gunna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785045642211-wont-stop.flac"
+    },
+    {
+      "song": "Fool For You",
+      "artist": "Kastra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vader2419-1785050244769-Kastra_-_Fool_For_You.flac"
+    },
+    {
+      "song": "Heart 111",
+      "artist": "yuri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/namajay500-alt-1785047720848-Yuri_-_Heart_111.flac"
+    },
+    {
       "song": "Lesung Pipi",
       "artist": "Raim Laode",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/valltzysugar-1785044277089-Lesung_Pipi_-_Raim_Laode.flac"
