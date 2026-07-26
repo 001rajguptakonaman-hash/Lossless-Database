@@ -1,6 +1,536 @@
 {
   "items": [
     {
+      "song": "Lesung Pipi",
+      "artist": "Raim Laode",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/valltzysugar-1785044277089-Lesung_Pipi_-_Raim_Laode.flac"
+    },
+    {
+      "song": "Oru Devathai Vanthu Vittaal (Language: Tamil; Film: Nee Varuvaai Ena\u2026; Film Artist 1: Parthipan, Ajith; Film Artist 2: Devaiyani)",
+      "artist": "Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041625843-01._Oru_Devathai_Vanthu_Vittaal__16_44_.flac"
+    },
+    {
+      "song": "Mudhan Mudhalil (Solo)",
+      "artist": "Deva, Vasan, Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785044131912-06_Mudhan_Mudhalil__Solo_-2.flac"
+    },
+    {
+      "song": "La Diabla",
+      "artist": "Xavi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036701750-95_-_La_Diabla_-_Xavi.flac"
+    },
+    {
+      "song": "Contour",
+      "artist": "Joeboy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042933855-contour.flac"
+    },
+    {
+      "song": "Killing Me Softly with His Song",
+      "artist": "Fugees",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041973984-killing-me-softly-with-his-song.flac"
+    },
+    {
+      "song": "Garuda Garuda",
+      "artist": "Deva, Sujatha Mohan, Krishnaraj, Kavignar Kalidhasan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041833204-1_11_Garuda_Garuda_From_Natpukkaga_Sujatha_Krishnaraj_FLAC.flac"
+    },
+    {
+      "song": "A Love for Life",
+      "artist": "G. V. Prakash, Flute Navin, Chennai Symphony",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-a_love_for_life.flac"
+    },
+    {
+      "song": "Angnyaade",
+      "artist": "G. V. Prakash, Shakthisree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-angnyaade.flac"
+    },
+    {
+      "song": "Chillena",
+      "artist": "G. V. Prakash, Clinton Cerejo, Alphonse, Alka Ajith",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-chillena.flac"
+    },
+    {
+      "song": "Hey Baby",
+      "artist": "G. V. Prakash, Gana Bala, Aishwarya",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-hey_baby.flac"
+    },
+    {
+      "song": "Imaye Imaye",
+      "artist": "G. V. Prakash, Shakthisree Gopalan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-imaye_imaye.flac"
+    },
+    {
+      "song": "Oday Oday",
+      "artist": "G. V. Prakash, Vijay Prakash, Shashaa Tirupati, Shalmali Kholgade",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oday_oday.flac"
+    },
+    {
+      "song": "Unnale",
+      "artist": "G. V. Prakash, Vandana Srinivasan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-unnale.flac"
+    },
+    {
+      "song": "La V\u00edctima",
+      "artist": "Xavi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785042664321-La_V_ctima_-_Xavi.flac"
+    },
+    {
+      "song": "Beat of Life (feat. Wizkid)",
+      "artist": "Sarz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042379097-beat-of-life-feat-wizkid.flac"
+    },
+    {
+      "song": "HOLLYWOOD",
+      "artist": "Peso Pluma, Estevan Plazola",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037059244-105_-_HOLLYWOOD_-_Peso_Pluma__Estevan_Plazola.flac"
+    },
+    {
+      "song": "LA CHERRY",
+      "artist": "Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037457489-LA_CHERRY_-_Junior_H.flac"
+    },
+    {
+      "song": "TULUM",
+      "artist": "Peso Pluma, Grupo Frontera",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037874887-20_-_TULUM_-_Peso_Pluma__Grupo_Frontera.flac"
+    },
+    {
+      "song": "Taare",
+      "artist": "Farak, 10A, & Saswat Balan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shivanium-git-1785038109632-Taare_-_Farak__10A____Saswat_Balan__Deewar_Ke_Uss_Paar.flac"
+    },
+    {
+      "song": "Build a Fire",
+      "artist": "Young Ejecta",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maanasadiyodi-1785043213326-Young_Ejecta_-_Build_a_Fire.flac"
+    },
+    {
+      "song": "Disturbance (feat. Peruzzi)",
+      "artist": "Davido",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041725726-disturbance-feat-peruzzi.flac"
+    },
+    {
+      "song": "Aye Sinamika",
+      "artist": "A.R. Rahman, Karthik",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-aye_sinamika.flac"
+    },
+    {
+      "song": "Kaara Aattakkaara",
+      "artist": "A.R. Rahman, Aaryan Dinesh Kanagaratnam, Darshana KT, Shashaa Tirupati",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaara_aattakkaara.flac"
+    },
+    {
+      "song": "Malargal Kaettaen",
+      "artist": "A.R. Rahman, K.S. Chithra",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-malargal_kaettaen.flac"
+    },
+    {
+      "song": "Maula Wa Sallim",
+      "artist": "A.R. Rahman, A.R. Ameen",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-maula_wa_sallim.flac"
+    },
+    {
+      "song": "Mental Manadhil (Female)",
+      "artist": "A.R. Rahman, Jonita Gandhi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mental_manadhil_female_.flac"
+    },
+    {
+      "song": "Mental Manadhil",
+      "artist": "A.R. Rahman, Jonita Gandhi, Mani Ratnam",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mental_manadhil.flac"
+    },
+    {
+      "song": "Naane Varugiraen",
+      "artist": "A.R. Rahman, Shashaa Tirupati, Sathya Prakash",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-naane_varugiraen.flac"
+    },
+    {
+      "song": "Parandhu Sella Vaa",
+      "artist": "A.R. Rahman, Karthik, Shashaa Tirupati",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-parandhu_sella_vaa.flac"
+    },
+    {
+      "song": "Theera Ulaa",
+      "artist": "A.R. Rahman, Darshana KT, Nikhita Gandhi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-theera_ulaa.flac"
+    },
+    {
+      "song": "Killing Me Softly with His Song",
+      "artist": "Fugees",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042091601-killing-me-softly-with-his-song.flac"
+    },
+    {
+      "song": "LADY GAGA",
+      "artist": "Peso Pluma, Gabito Ballesteros, Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037769308-48_-_LADY_GAGA_-_Peso_Pluma__Gabito_Ballesteros__Junior_H.flac"
+    },
+    {
+      "song": "LUNA",
+      "artist": "Peso Pluma, Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037233122-01_-_LUNA_-_Peso_Pluma__Junior_H.flac"
+    },
+    {
+      "song": "Bharathikku Kannamma (Version, 01)",
+      "artist": "Deva, S.P. Balasubrahmanyam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041695066-1_1_Bharathikku_From_Priyamudan_S_P_Balasubrahmanyam_FLAC.flac"
+    },
+    {
+      "song": "Aston Martin Music (feat. Drake & Chrisette Michele)",
+      "artist": "Rick Ross",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041302294-aston-martin-music-feat-drake-chrisette-michele.flac"
+    },
+    {
+      "song": "Pheelz Like Summer",
+      "artist": "Pheelz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785043110701-pheelz-like-summer.flac"
+    },
+    {
+      "song": "Perpisahan Termanis",
+      "artist": "Lovarian",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/valltzysugar-1785044154984-Perpisahan_Termanis_-_Lovarian.flac"
+    },
+    {
+      "song": "Party Monster",
+      "artist": "Ruger, BNXN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785043027287-party-monster.flac"
+    },
+    {
+      "song": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "artist": "Goya Menor, Nektunez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785044707333-Ameno_Amapiano_Remix__You_Wanna_Bamba__-_Goya_Menor__Nektunez__Ameno_Amapiano_Remix__You_Wanna_Bamba_.flac"
+    },
+    {
+      "song": "Terminator (feat. Young Jonn)",
+      "artist": "King Promise",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042472893-terminator-feat-young-jonn.flac"
+    },
+    {
+      "song": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037341365-10_-_Ahora_Te_Puedes_Marchar_-_Luis_Miguel.flac"
+    },
+    {
+      "song": "Wonder Woman",
+      "artist": "Davido",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785033799975-wonder-woman.flac"
+    },
+    {
+      "song": "Ullagatthil Ulla",
+      "artist": "Sujatha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041534805-01._Ullagathil_Ulla__16_44_.flac"
+    },
+    {
+      "song": "Desvelado",
+      "artist": "Emmanuel Cortes",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037698648-50_-_Desvelado_-_Emmanuel_Cortes.flac"
+    },
+    {
+      "song": "Romeo Must Die (RMD)",
+      "artist": "Ruger, Bnxn",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042865142-romeo-must-die-rmd.flac"
+    },
+    {
+      "song": "Irupathu Kodi (Language: Tamil; Film: Thullatha Manamum Thullum; Film Artist 1: Vijay; Film Artist 2: Simran)",
+      "artist": "Hariharan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785043597174-05_Irupathu_Kodi__From__Thullatha_Manamum_Thullum__-2.flac"
+    },
+    {
+      "song": "True Love",
+      "artist": "2face Idibia",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041550458-true-love.flac"
+    },
+    {
+      "song": "Nada Formal (con Kris Floyd)",
+      "artist": "MVSIS, Omar Courtz, ROBI",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785028918331-Nada_Formal_-_Mvsis__Omar_Courtz__Robi__Kris_Floyd.flac"
+    },
+    {
+      "song": "Big Flexa (feat. Sdida, Alfa Kat, Man T & C'buda M)",
+      "artist": "Costa Titch",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785034266636-big-flexa-feat-sdida-alfa-kat-man-t-cbuda-m.flac"
+    },
+    {
+      "song": "Ojitos Bellos",
+      "artist": "Grupo Frontera",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036800878-Ojitos_Bellos_-_Grupo_Frontera.flac"
+    },
+    {
+      "song": "Wonder Woman",
+      "artist": "WSTRN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785033725943-wonder-woman.flac"
+    },
+    {
+      "song": "Enakkoru Snehidhi",
+      "artist": "S.A. Rajkumar, Hariharan, Mahalakshmi Iyer, Vaali",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785043794502-09_Enakoru_Snegathi__From__Priyamanavale__.flac"
+    },
+    {
+      "song": "Doore",
+      "artist": "Sangeeth Vijayan, Dan Pearson",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maanasadiyodi-1785042860451-Sangeeth_Vijayan_-_Doore.flac"
+    },
+    {
+      "song": "she goes by. (KayArchon Remix)",
+      "artist": "KayArchonn, where.t.at",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/valltzysugar-1785044101416-she_goes_by.__KayArchon_Remix__-_KayArchonn.flac"
+    },
+    {
+      "song": "Ahora Te Puedes Marchar",
+      "artist": "Xavi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037408075-02_-_Ahora_Te_Puedes_Marchar_-_Xavi.flac"
+    },
+    {
+      "song": "You Right",
+      "artist": "Doja Cat, The Weeknd",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/maanasadiyodi-1785042698814-Doja_Cat_-_You_Right__feat._The_Weeknd_.flac"
+    },
+    {
+      "song": "No Letting Go",
+      "artist": "Wayne Wonder",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785033904335-no-letting-go.flac"
+    },
+    {
+      "song": "Mesmerize (feat. Ashanti)",
+      "artist": "Ja Rule",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041400754-mesmerize-feat-ashanti.flac"
+    },
+    {
+      "song": "Extasy",
+      "artist": "Myke Towers",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/sntiagorizzler-bot-1785034624665-Extasy_-_Myke_Towers.flac"
+    },
+    {
+      "song": "$AD BOYZ II",
+      "artist": "Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037549857-_AD_BOYZ_II_-_Junior_H.flac"
+    },
+    {
+      "song": "Kavithaigal Sollava",
+      "artist": "Karthik Raja, S.P. Balasubrahmanyam, Sujatha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041377107-01_-_Kavithaigal_Sollava.flac"
+    },
+    {
+      "song": "Desvelado",
+      "artist": "Bobby Pulido",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037606486-83_-_Desvelado_-_Bobby_Pulido.flac"
+    },
+    {
+      "song": "LAGUNAS",
+      "artist": "Peso Pluma, Jasiel Nu\u00f1ez",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036943833-33_-_LAGUNAS_-_Peso_Pluma__Jasiel_Nu_ez.flac"
+    },
+    {
+      "song": "Happiness (feat. Asake & Gunna)",
+      "artist": "Sarz, Asake, Gunna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785034103864-happiness-feat-asake-gunna.flac"
+    },
+    {
+      "song": "Screenshot",
+      "artist": "Khea",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785029831378-Screenshot_-_KHEA.flac"
+    },
+    {
+      "song": "Sapphire",
+      "artist": "Ed Sheeran",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/henry-heart-1785044845433-Sapphire.flac"
+    },
+    {
+      "song": "Sollitharava",
+      "artist": "Vidyasagar, Kabilan, Madhu Balakrishnan, Sadhana Sargam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785043949639-02_Sollitharava-2.flac"
+    },
+    {
+      "song": "Bend Down Low",
+      "artist": "Jesse Jagz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042560910-bend-down-low.flac"
+    },
+    {
+      "song": "A Puro Dolor",
+      "artist": "Gabito Ballesteros",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036378974-69_-_A_Puro_Dolor_-_Gabito_Ballesteros.flac"
+    },
+    {
+      "song": "Orae Manam",
+      "artist": "Vidyasagar, Vairamuthu, Hariharan, Chandana Bala",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785043875092-02_Orae_Manam-2.flac"
+    },
+    {
+      "song": "Loose Emotions",
+      "artist": "BNXN",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041640903-loose-emotions.flac"
+    },
+    {
+      "song": "Kuru Kuru",
+      "artist": "Sundar Narayana Rao",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041436093-01._Kuru_Kuru.flac"
+    },
+    {
+      "song": "LAS NOCHES",
+      "artist": "Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037181613-05_-_LAS_NOCHES_-_Junior_H.flac"
+    },
+    {
+      "song": "Anoti",
+      "artist": "Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785044792445-anoti.flac"
+    },
+    {
+      "song": "Big Rich Town (feat. Joe)",
+      "artist": "50 Cent",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785033980309-big-rich-town.flac"
+    },
+    {
+      "song": "Pvta Luna",
+      "artist": "Neton Vega",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037280227-46_-_Pvta_Luna_-_Neton_Vega.flac"
+    },
+    {
+      "song": "MIENTRAS DUERMES",
+      "artist": "Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785037140860-24_-_MIENTRAS_DUERMES_-_Junior_H.flac"
+    },
+    {
+      "song": "AGORA",
+      "artist": "Maria Becerra",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785029737386-AGORA_-_Maria_Becerra.flac"
+    },
+    {
+      "song": "promise",
+      "artist": "slayr",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/phone-cyber22-1785044719480-promise_-_SLAYR.flac"
+    },
+    {
+      "song": "Bye",
+      "artist": "Grupo Frontera",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036995854-Bye_-_Grupo_Frontera.flac"
+    },
+    {
+      "song": "Adiye (From \"Bachelor\")",
+      "artist": "Dhibu Ninan Thomas, Kapil Kapilan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-adiye_from_bachelor_.flac"
+    },
+    {
+      "song": "Kaadhal Kanmani",
+      "artist": "G.V. Prakash Kumar & Swagatha S Krishnan",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaadhal_kanmani.flac"
+    },
+    {
+      "song": "Kavan",
+      "artist": "Navakkarai Naveen Prabanjam",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kavan.flac"
+    },
+    {
+      "song": "Life of Bachelor",
+      "artist": "Navakkarai Naveen Prabanjam, A H Kaashif, & Asal Kolaar",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-life_of_bachelor.flac"
+    },
+    {
+      "song": "Miss You Baby",
+      "artist": "G.V. Prakash Kumar & Aishvarrya",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-miss_you_baby.flac"
+    },
+    {
+      "song": "Pachigalam Paravaigalam",
+      "artist": "G.V. Prakash Kumar, Navakkarai Naveen Prabanjam",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-pachigalam_paravaigalam.flac"
+    },
+    {
+      "song": "RAGASIYAMAAI",
+      "artist": "HARIHARAN, RAMANATHAN & Sadhana Sargam",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785044495027-04_Ragasiyamaai-2.flac"
+    },
+    {
+      "song": "MIENTRAS DUERMES",
+      "artist": "Junior H",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785036893454-24_-_MIENTRAS_DUERMES_-_Junior_H.flac"
+    },
+    {
+      "song": "Patek (Remix) (feat. DJ Tarico & Joey B)",
+      "artist": "Mr Eazi, Falz, Major League Djz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042166046-patek-remix-feat-dj-tarico-joey-b.flac"
+    },
+    {
+      "song": "Eh God (Barnabas)",
+      "artist": "Kizz Daniel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785041783589-eh-god-barnabas.flac"
+    },
+    {
+      "song": "Malare Oru Varthai",
+      "artist": "Hariharan, Sujatha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785043527542-08_Malare_Oru_Varthai__From__Poomagal_Oorvalam__.flac"
+    },
+    {
+      "song": "Who",
+      "artist": "Jimin",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/himmax-sato-1785044800796-00_-_Jimin_-_Who.flac"
+    },
+    {
+      "song": "Annul Maelae (Instrumental)",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-annul_maelae_instrumental_.flac"
+    },
+    {
+      "song": "Annul Maelae",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-annul_maelae.flac"
+    },
+    {
+      "song": "Ava Enna (Instrumental)",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ava_enna_instrumental_.flac"
+    },
+    {
+      "song": "Ava Enna",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-ava_enna.flac"
+    },
+    {
+      "song": "Mundhinam (Instrumental)",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mundhinam_instrumental_.flac"
+    },
+    {
+      "song": "Mundhinam",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-mundhinam.flac"
+    },
+    {
+      "song": "Nenjukkul Peidhidum (Instrumental)",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-nenjukkul_peidhidum_instrumental_.flac"
+    },
+    {
+      "song": "Nenjukkul Peidhidum",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-nenjukkul_peidhidum.flac"
+    },
+    {
+      "song": "Oh! Shanthi Shanthi (From \"Vaaranam Aayiram\")",
+      "artist": "Harris Jayaraj, Clinton, S.P. Charan, Thamarai",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oh_shanthi_shanthi_from_vaaranam_aayiram_.flac"
+    },
+    {
+      "song": "Oh! Shanthi Shanthi (Instrumental)",
+      "artist": "Harris Jayaraj",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-oh_shanthi_shanthi_instrumental_.flac"
+    },
+    {
+      "song": "Tempted To Steal",
+      "artist": "Kizz Daniel",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kezino-me-1785042335630-tempted-to-steal.flac"
+    },
+    {
+      "song": "4AM (feat. Love Renaissance (LVRN))",
+      "artist": "Manny Nort\u00e9, 6LACK, Rema, Tion Wayne",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785044047574-4AM__feat._Love_Renaissance__LVRN___-_Manny_Nort___6LACK__Rema__Tion_Wayne__4AM.flac"
+    },
+    {
+      "song": "CC",
+      "artist": "Lil Joujou, Omar Courtz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785028822841-CC_-_lil_joujou__Omar_Courtz.flac"
+    },
+    {
       "song": "WYFL Riddim",
       "artist": "DJ MAC, CrashDummy",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785026303744-wyfl-riddim.flac"
