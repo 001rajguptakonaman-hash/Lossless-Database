@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "song": "I Don't Wanna Wait",
+      "artist": "David Guetta, OneRepublic",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vader2419-1785149869823-OneRepublic_-_I_Don_t_Wanna_Wait.flac"
+    },
+    {
+      "song": "I THINK",
+      "artist": "Tyler, The Creator",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/eleveno11o-1785142703911-03_I_THINK__feat._Solange_.flac"
+    },
+    {
+      "song": "Ginseng Strip 2002",
+      "artist": "Yung Lean",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tfitsparth-1785145476507-Ginseng_Strip_2002_-_Yung_Lean.flac"
+    },
+    {
+      "song": "She Will Be Loved",
+      "artist": "Maroon 5",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/thingfour4-1785147048415-She_Will_Be_Loved_-_Radio_Mix_-_Maroon_5.flac"
+    },
+    {
+      "song": "Tilting The Hourglass",
+      "artist": "Alesana",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenonphyte-1785153782976-08_-_Tilting_The_Hourglass.flac"
+    },
+    {
+      "song": "\u602a\u7363 - Kaiju",
+      "artist": "sakanaction",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/82av29-1785149594538-Sakanaction_-_Kaiju.flac"
+    },
+    {
+      "song": "Leher (From \u201cCocktail 2\u201d)",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/orwhathacker748-cyber-1785145383069-Leher__From__Cocktail_2___-_Pritam__Arijit_Singh___Amitabh_Bhattacharya.flac"
+    },
+    {
+      "song": "Vaama Vaama",
+      "artist": "Thaman S, Dhanush, Adesh Krishna",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/riyanr1410-1785135455211-4._Vaama_Vaama.flac"
+    },
+    {
+      "song": "On Sight",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tfitsparth-1785133677090-On_Sight_-_Kanye_West.flac"
+    },
+    {
+      "song": "Touch The Sky (feat. Lupe Fiasco)",
+      "artist": "Kanye West",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tfitsparth-1785145393153-Touch_The_Sky_-_Kanye_West__Lupe_Fiasco.flac"
+    },
+    {
+      "song": "Telk Qadeya",
+      "artist": "Cairokee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/82av29-1785149179315-Cairokee_-_Telk_Qadeya.flac"
+    },
+    {
+      "song": "Krishna Govinda",
+      "artist": "Sunidhi Chauhan, Prasad S, Irshad Kamil",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/orwhathacker748-cyber-1785144792477-Krishna_Govinda_-_Sunidhi_Chauhan__Prasad_S___Irshad_Kamil.flac"
+    },
+    {
+      "song": "Tujhko (From \u201cCocktail 2\u201d)",
+      "artist": "Pritam, Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/orwhathacker748-cyber-1785145291780-Tujhko__From__Cocktail_2___-_Pritam__Arijit_Singh__Sunidhi_Chauhan___Amitabh_Bhattacharya.flac"
+    },
+    {
+      "song": "Kinginichar",
+      "artist": "M.H.R, JOKER390P",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785142137281-19_-_Kinginichar_-_M.H.R___Joker390P.flac"
+    },
+    {
+      "song": "Leher (From \u201cCocktail 2\u201d)",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/orwhathacker748-cyber-1785145042790-Leher__From__Cocktail_2___-_Pritam__Arijit_Singh___Amitabh_Bhattacharya.flac"
+    },
+    {
+      "song": "Aaruyire",
+      "artist": "G.V. Prakash Kumar, Sonu Nigam, Saindhavi",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-aaruyire.flac"
+    },
+    {
+      "song": "Feel of Love",
+      "artist": "G.V. Prakash Kumar, Seenu, Navin Iyer",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-feel_of_love.flac"
+    },
+    {
+      "song": "Kaatrile",
+      "artist": "G.V. Prakash Kumar, Hariharan, Zia, and Augustin Choir",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-kaatrile.flac"
+    },
+    {
+      "song": "Meghame O Meghame",
+      "artist": "G.V. Prakash Kumar, M.S.Vishwanathan, Chiyaan Vikram, Nasser",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-meghame_o_meghame.flac"
+    },
+    {
+      "song": "The Dance Theme of Madharasapattinam",
+      "artist": "G.V. Prakash Kumar & Navin Iyer",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-the_dance_theme_of_madharasapattinam.flac"
+    },
+    {
+      "song": "Vaamma Duraiyamma",
+      "artist": "G.V. Prakash Kumar, Udit Narayan, & VMC Haneefa",
+      "url": "https://lossless.echomusic.fun/Music/rupeshrn-vaamma_duraiyamma.flac"
+    },
+    {
+      "song": "Starlight",
+      "artist": "Muse",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/82av29-1785149011692-Muse_-_Starlight.flac"
+    },
+    {
       "song": "Nanavekathe (From \"Athi Bheekara Kaamukan\")",
       "artist": "Bibin Ashok, Crishna and Haritha Haribabu",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785083917232-30_-_Nanavekathe__From_Athi_Bheekara_Kaamukan___-_Crishna__Bibin_Ashok___Haritha_Haribabu.flac"
