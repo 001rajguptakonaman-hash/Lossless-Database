@@ -1,6 +1,356 @@
 {
   "items": [
     {
+      "song": "Nanavekathe (From \"Athi Bheekara Kaamukan\")",
+      "artist": "Bibin Ashok, Crishna and Haritha Haribabu",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785083917232-30_-_Nanavekathe__From_Athi_Bheekara_Kaamukan___-_Crishna__Bibin_Ashok___Haritha_Haribabu.flac"
+    },
+    {
+      "song": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
+      "artist": "Santhosh Narayanan, Diljit Dosanjh, Deepak Blue",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785117970001-01._Bhairava_Anthem.flac"
+    },
+    {
+      "song": "You and Me",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785123454707-00_-_Shubh_-_You_and_Me.flac"
+    },
+    {
+      "song": "Lagda Nahi",
+      "artist": "Toshi, AMMY GILL",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenon537-1785125524555-Lagda_Nahi.flac"
+    },
+    {
+      "song": "Calentita (con Brytiago)",
+      "artist": "Khea",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785120070904-Calentita_-_KHEA__Brytiago.flac"
+    },
+    {
+      "song": "Master the Blaster (From \"Master\")",
+      "artist": "Anirudh Ravichander, Bjorn Surrao",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784993453932-Master_the_Blaster.flac"
+    },
+    {
+      "song": "HOLY GHOST",
+      "artist": "OMAH LAY",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118031074-holy-ghost.flac"
+    },
+    {
+      "song": "Soso (Remix)",
+      "artist": "Ozuna, Omah Lay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118757830-soso-remix.flac"
+    },
+    {
+      "song": "Nee Parichayamutho (From \"Choosi Choodangaane\")",
+      "artist": "Gopi Sundar, Sid Sriram, Ananth Sriram",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jzkskskwiiwi-ship-it-1784873504044-04_-_Nee_Parichayamutho.flac"
+    },
+    {
+      "song": "Veera Dheera",
+      "artist": "Santhosh Narayanan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785118029089-34._Veera_Dheera.flac"
+    },
+    {
+      "song": "Mientes",
+      "artist": "Luar La L",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785120225011-Mientes_-_Luar_La_L.flac"
+    },
+    {
+      "song": "Dior",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785121121752-00_-_Shubh_-_Dior.flac"
+    },
+    {
+      "song": "Pal Pal Dil Ke Paas- Title Track",
+      "artist": "Arijit Singh, Parampara Thakur, Sachet Parampara, Siddharth - Garima",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dkprince418-bot-1785124403538-00_-_Kishore_Kumar_-_Yeh_Raaten_Yeh_Mausam.flac"
+    },
+    {
+      "song": "Pathira (From \"Dheeram\")",
+      "artist": "Manikandan Ayyappa, The Imbachi, Sruthy Sivadas",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785083099671-66_-_Pathira__From_Dheeram___-_Manikandan_Ayyappa__The_Imbachi__Sruthy_Sivadas___B.K._Harinarayanan.flac"
+    },
+    {
+      "song": "Kilofese (Remix) (feat. Mayorkun & Busiswa)",
+      "artist": "Zinoleesky",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118304394-kilofese-remix-feat-mayorkun-busiswa.flac"
+    },
+    {
+      "song": "Bandana",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785121026554-00_-_Shubh_-_Bandana.flac"
+    },
+    {
+      "song": "Pass Dem",
+      "artist": "Dj Tough & Wande Coal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117961158-pass-dem.flac"
+    },
+    {
+      "song": "Gozi",
+      "artist": "Fireboy DML, Pheelz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117256054-gozi.flac"
+    },
+    {
+      "song": "Bujji Theme (From \"Kalki 2898 AD\")",
+      "artist": "Santhosh Narayanan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785118083156-26._Bujji_Theme.flac"
+    },
+    {
+      "song": "Ithal Maye (From \"Mr. & Mrs. Bachelor\")",
+      "artist": "PS Jayhari, Don Thomas and Mahesh Gopal",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785083428629-54_-_Ithal_Maye__From_Mr.___Mrs._Bachelor___-_P._S._Jayhari___Mahesh_Gopal.flac"
+    },
+    {
+      "song": "Safety Off",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785122238312-00_-_Shubh_-_Safety_Off.flac"
+    },
+    {
+      "song": "High On You",
+      "artist": "Jind Universe",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenon537-1785125700262-Jind_Universe_-_High_On_You_1.flac"
+    },
+    {
+      "song": "Hope Song (From \"Sarkeet\")",
+      "artist": "Kapil Kapilan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/vivekvijayan20-1784979248443-02._Hope_Song.flac"
+    },
+    {
+      "song": "by now",
+      "artist": "CKay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118512092-by-now.flac"
+    },
+    {
+      "song": "IYKYK (From \"Athiradi\")",
+      "artist": "Vishnu Vijay, Fejo, Poornima Kannan and Suhail Koya",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785084023085-29_-_IYKYK__From_Athiradi___-_Fejo__Poornima_Kannan__Vishnu_Vijay___Suhail_Koya.flac"
+    },
+    {
+      "song": "Aasa Pulla (From \"Youth\")",
+      "artist": "G. V. Prakash Kumar, Ken Karunaas, Eshwar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramkumarrengasamy2615-afk-1785006197242-2._Aasa_Pulla__From_Youth_.flac"
+    },
+    {
+      "song": "Favourite Story",
+      "artist": "King Promise, Sarkodie, Olivetheboy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117440290-favourite-story.flac"
+    },
+    {
+      "song": "Ngozi",
+      "artist": "Crayon, Ayra Starr",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117327947-ngozi.flac"
+    },
+    {
+      "song": "eko",
+      "artist": "FOLA",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117733019-eko.flac"
+    },
+    {
+      "song": "Skido",
+      "artist": "Victony, Olamide",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117664505-skido.flac"
+    },
+    {
+      "song": "JOY (feat. Olamide)",
+      "artist": "Pheelz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117501642-joy-feat-olamide.flac"
+    },
+    {
+      "song": "LOJU",
+      "artist": "SPINALL, Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118087612-loju.flac"
+    },
+    {
+      "song": "Trumpet",
+      "artist": "Olamide, CKay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117832265-trumpet.flac"
+    },
+    {
+      "song": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jooker-09-1784993894296-Jaiye_Sajana_-_Shashwat_Sachdev__Jasmine_Sandlas__Satinder_Sartaaj.flac"
+    },
+    {
+      "song": "500 Miles",
+      "artist": "Peter , Paul and Mary",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/joseliishu-ux-1785120985616-500_Miles_-_Peter__Paul_and_Mary.flac"
+    },
+    {
+      "song": "OG",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785122127472-00_-_Shubh_-_OG.flac"
+    },
+    {
+      "song": "No Love",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785121900716-00_-_Shubh_-_No_Love.flac"
+    },
+    {
+      "song": "Essence (feat. Justin Bieber & Tems)",
+      "artist": "Wizkid",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117894904-essence-feat-justin-bieber-tems.flac"
+    },
+    {
+      "song": "Chaap Tilak (From \"Dark 7 White\")",
+      "artist": "Sargam Jassu , Nakash Aziz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rockyklebitz73-1784889552795-Chaap_Tilak_-_Nakash_Aziz.flac"
+    },
+    {
+      "song": "Ta Takkara (Complex Song) (From \"Kalki 2898 AD\") (Telugu)",
+      "artist": "Sanjith Hegde, Dhee",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785117894623-03._Ta_Takkara__Complex_Song_.flac"
+    },
+    {
+      "song": "512 (Remix)",
+      "artist": "Conep, Luar La L",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/emipvargas-lgtm-1785119937570-512__Remix__-_Conep__Luar_La_L.flac"
+    },
+    {
+      "song": "Nee Parichayamutho (From \"Choosi Choodangaane\")",
+      "artist": "Gopi Sundar, Sid Sriram, Ananth Sriram",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jzkskskwiiwi-ship-it-1784903925040-04_-_Nee_Parichayamutho.flac"
+    },
+    {
+      "song": "Nee Parichayamutho (From \"Choosi Choodangaane\")",
+      "artist": "Gopi Sundar, Sid Sriram, Ananth Sriram",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jzkskskwiiwi-ship-it-1784948301043-04_-_Nee_Parichayamutho.flac"
+    },
+    {
+      "song": "Bandana",
+      "artist": "Fireboy DML, Asake",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118618773-bandana.flac"
+    },
+    {
+      "song": "emiliana",
+      "artist": "CKay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118416446-emiliana.flac"
+    },
+    {
+      "song": "New Jeans",
+      "artist": "NewJeans",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pablix2310-1785128288117-NewJeans_-_New_Jeans.flac"
+    },
+    {
+      "song": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+      "artist": "Sai Abhyankkar, Dhanush",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/iamanshad-1785080052534-The_Wild_Theme_From_OM_Chapter_1_Udhiram_The_Blood_Wood_Sai_Abhyankkar.flac"
+    },
+    {
+      "song": "Baller",
+      "artist": "Shubh, Ikky",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785120925920-00_-_Shubh_-_Baller.flac"
+    },
+    {
+      "song": "Nilaa Kaayum (From \"Kalamkaval\")",
+      "artist": "Mujeeb Majeed, Sindhu Delson and Vinayak Sasikumar",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785084106524-28_-_Nilaa_Kaayum__From_Kalamkaval___-_Mujeeb_Majeed__Sindhu_Delson___Vinayak_Sasikumar.flac"
+    },
+    {
+      "song": "Her",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785121484194-00_-_Shubh_-_Her.flac"
+    },
+    {
+      "song": "Akhiyan",
+      "artist": "Harkirat Sangha, Starboy X",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/xenon537-1785125610531-Akhiyan_-_Harkirat_Sangha__Starboy_X.flac"
+    },
+    {
+      "song": "Sohniye",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785123519511-01_-_Shubh_-_Sohniye.flac"
+    },
+    {
+      "song": "NBA (feat. Ayo Maff)",
+      "artist": "LADIPOE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117552810-nba-feat-ayo-maff.flac"
+    },
+    {
+      "song": "Pooja Vaa (From \"Priyamudan\")",
+      "artist": "Deva, S. P. Balasubrahmanyam, K. S. Chithra, Palani Bharathi",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785041237022-1_3_Pooja_Vaa_From_Priyamudan_S_P_Balasubrahmanyam_Chithra_FLAC.flac"
+    },
+    {
+      "song": "Philo",
+      "artist": "Bella Shmurda, Omah Lay",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118565176-philo.flac"
+    },
+    {
+      "song": "Sulthaan (From \"Aadu 3\")",
+      "artist": "Shaan Rahman, Anila Rajeev, Manu Manjith",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785083764559-32_-_Sulthaan_-_Shaan_Rahman__Anila_Rajeev___Manu_Manjith.flac"
+    },
+    {
+      "song": "Nilavoonjaale (From \"Bharathanatyam 2 Mohiniyattam\")",
+      "artist": "electronic Kili, Sublahshini, Navoca, Muthu",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/hopperak47-hash-1785088327825-25_-_Nilavoonjaale_-_electronic_kili__Sublahshini__Navoca___Muthu.flac"
+    },
+    {
+      "song": "BOOMPALA",
+      "artist": "LE SSERAFIM",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jajajajeje-1785131287391-02_-_BOOMPALA.flac"
+    },
+    {
+      "song": "JELO (feat. Young Jonn)",
+      "artist": "Pheelz",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118159362-jelo-feat-young-jonn.flac"
+    },
+    {
+      "song": "Elevated",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785121336434-00_-_Shubh_-_Elevated.flac"
+    },
+    {
+      "song": "We Rollin",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785123385454-00_-_Shubh_-_We_Rollin.flac"
+    },
+    {
+      "song": "True Bestie",
+      "artist": "Drake, Iconic Savvy",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785117612131-true-bestie.flac"
+    },
+    {
+      "song": "Hungry Cheetah (From \"They Call Him OG\")",
+      "artist": "Thaman S",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/shreyasog-1785037655069-5._Hungry_Cheetah.flac"
+    },
+    {
+      "song": "Nee Korinaal (From \"180\")",
+      "artist": "Karthik, Swetha Mohan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ramanaaxe-png-1785049046061-19_Nee_Korinaal__From_-180-_.flac"
+    },
+    {
+      "song": "There Is a Light That Never Goes Out (2017 Master)",
+      "artist": "The Smiths",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tommy5911-1785117281104-The_Smiths_-_There_Is_a_Light_That_Never_Goes_Out.flac"
+    },
+    {
+      "song": "Get it Right (feat. Asake)",
+      "artist": "Tems",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118458977-get-it-right-feat-asake.flac"
+    },
+    {
+      "song": "Colours [Remix] (feat. J Kaz & Demmaa)",
+      "artist": "Kid Alpha",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/kenpachigrande-1785118678264-colours-remix-feat-j-kaz-demmaa.flac"
+    },
+    {
+      "song": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/tommy5911-1785122392346-05_Far_From_Any_Road.flac"
+    },
+    {
+      "song": "1&Only",
+      "artist": "XLOV",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/jajajajeje-1785132072548-01_-_1_Only.flac"
+    },
+    {
+      "song": "Supreme",
+      "artist": "Shubh",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pravinsolanki1-1785123319507-00_-_Shubh_-_Supreme.flac"
+    },
+    {
       "song": "Hablemos",
       "artist": "Ariel Camacho Y Los Plebes del Rancho",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/dy11221-1785111107543-26_-_Hablemos_-_Ariel_Camacho_y_Los_Plebes_Del_Rancho.flac"
